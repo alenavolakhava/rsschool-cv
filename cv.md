@@ -2,7 +2,7 @@
 
 |   Name                        | Email   
 |  ------                       |------
-|  Alena Volakhava              |alena.volakhava@gmail.com       
+|  Alena Volakhava              |[mailto:alena.volakhava@gmail.com]       
 |  LinkedIn                     |[Alena Volakhava](https://www.linkedin.com/in/alena-volakhava/)
 |  Contact                      |Mobile: (443) 949-4822
 
@@ -30,7 +30,7 @@ Dedicated and seasoned Software QA Engineer with over 7 years of experience in W
 
 ### *Professional Experience*
 **MedMen Enterprise, Inc., Los Angeles, CA** 
- ##### *AUG'2018 - SEP'2023*                          
+##### *AUG'18 - SEP'2023*                        
 * Developed and executed comprehensive Test Suites, Test Matrices, and Test Cases for multiple projects, tracking progress and issues using project management tools such as Jira and Notion.
 * Conducted thorough code reviews of Web-based and Mobile Applications using VSCode and Xcode, with version control managed through Git and Git Terminal commands.
 * Used Graphql Playground IDE and Postman for API testing.
