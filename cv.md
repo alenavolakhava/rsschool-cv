@@ -2,7 +2,7 @@
 
 |   Name                        | Email   
 |  ------                       |------
-|  Alena Volakhava              |[mailto:alena.volakhava@gmail.com]       
+|  Alena Volakhava              |[email me](mailto:alena.volakhava@gmail.com)   
 |  LinkedIn                     |[Alena Volakhava](https://www.linkedin.com/in/alena-volakhava/)
 |  Contact                      |Mobile: (443) 949-4822
 
