@@ -1,10 +1,10 @@
 # Alena Volakhava  |  Software QA Engineer      
 
-|   Name                        | Email   
+|   Name                        | Contact Info  
 |  ------                       |------
 |  Alena Volakhava              |[email me](mailto:alena.volakhava@gmail.com)   
 |  LinkedIn                     |[Alena Volakhava](https://www.linkedin.com/in/alena-volakhava/)
-|  Contact                      |Mobile: (443) 949-4822
+|  Mobile Phone                 |443.949.4822
 
 ### *Objective*
 Dedicated and seasoned Software QA Engineer with over 7 years of experience in Web-based and Mobile native application testing, seeking to leverage my expertise in manual and automated testing, and release management to contribute to a dynamic software development team, ensuring high-quality software products.  
