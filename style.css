@@ -1,0 +1,32 @@
+.content{
+    text-align: center;
+}
+p{
+    color:black;
+    background-color: aliceblue;   
+}
+ul{
+list-style: inside;
+background-color: aliceblue;
+}
+
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 30%;
+    text-align: center;
+    
+}
+th, td{
+    padding: 10px;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+.footer{
+    text-align: center;
+    
+}
+img {
+    padding: 1px;
+    width: 150px;
+  }
