@@ -1,6 +1,9 @@
 .content{
     text-align: center;
 }
+body{
+    text-align: center;
+}
 p{
     color:black;
     background-color: aliceblue;   
@@ -15,6 +18,7 @@ table, th, td{
     border-collapse: collapse;
     width: 30%;
     text-align: center;
+    
     
 }
 th, td{
