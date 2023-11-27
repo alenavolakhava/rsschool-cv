@@ -43,6 +43,9 @@ tr:nth-child(even) {
 }
 
 img {
-    padding: 1px;
-    width: 150px;
+   
+    text-align: center;
+    padding: 2px;
+    width: 300px;
 }
+
